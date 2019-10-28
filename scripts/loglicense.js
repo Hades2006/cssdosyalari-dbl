@@ -1,0 +1,2 @@
+console.log('%c       ', 'font-size: 150px; background: url(https://botsfordiscord.com/img/banner.png) no-repeat; background-size: 55%;');
+console.log("Copyright Charbel Habchy All Rights Reserved\nTHE FUNCTIONALITY AND DESIGN OF THIS WEBSITE AND ANY OF ITS ASSETS ARE NOT ALLOWED TO BE REUSED IN ANY WAY SHAPE OR FORM WITHOUT PROPER PERMISSION\nA copy of our license can be viewed here https://botsfordiscord.com/license");
